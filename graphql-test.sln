@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphql", "graphql.csproj", "{E66A8051-D1F0-4F6A-B8A3-7D124A3D0D91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphql-test", "graphql-test.csproj", "{E66A8051-D1F0-4F6A-B8A3-7D124A3D0D91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
